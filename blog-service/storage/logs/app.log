@@ -1,0 +1,4 @@
+2022/03/01 10:00:26 {"callers":["D:/VScode/GoPath/src/GoProgrammingTourBook/blog-service/main.go: 28: main.init.0"],"level":"info","message":"xushilei: go-programming-tour-book/blog-service","time":1646100026432558900}
+2022/03/01 14:11:22 {"callers":["D:/VScode/GoPath/src/GoProgrammingTourBook/blog-service/main.go: 28: main.init.0"],"level":"error","message":"app.BindAndValid err:State必须是[0 1]中的一个","time":1646115082708385700}
+2022/03/01 14:13:10 {"callers":["D:/VScode/GoPath/src/GoProgrammingTourBook/blog-service/main.go: 28: main.init.0"],"level":"error","message":"app.BindAndValid err:State必须是[0 1]中的一个","time":1646115190400391500}
+2022/03/01 14:13:50 {"callers":["D:/VScode/GoPath/src/GoProgrammingTourBook/blog-service/main.go: 28: main.init.0"],"level":"error","message":"app.BindAndValid err:State必须是[0 1]中的一个","time":1646115230028136200}
